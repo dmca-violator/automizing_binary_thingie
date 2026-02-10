@@ -1,0 +1,18 @@
+# aalow everthing
+*
+
+# allow to get into folders
+!*/
+
+# only these things let go into the github
+!*.cpp
+!*.c
+!*.h
+!*.md
+!Makefile
+!.gitignore
+
+# explicityly if something dumb
+.vscode/
+*.o
+*.out
