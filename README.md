@@ -1,0 +1,1 @@
+me automizing my thinge lololo the binary thingie conversion or hexedeciaml or 8 base etc.
